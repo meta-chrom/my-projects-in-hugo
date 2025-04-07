@@ -2,3 +2,7 @@ baseURL = 'https://meta-chrom.github.io/my-projects-in-hugo/public/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "terminal"
+ignoreLogs = ['warning-goldmark-raw.html']
+[markup.goldmark.renderer]
+unsafe = true
+

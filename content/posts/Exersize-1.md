@@ -15,4 +15,9 @@ hideComments = false
 
 # Exersize 1
 ## Dear Data
-![imagen ejemplo](img/hello.jpg)
+
+### An exersize to rethink personal data!
+![imagen ejemplo](img/page1.jpg)
+![imagen ejemplo](img/page2.jpg)
+![imagen ejemplo](img/page3.jpg)
+
