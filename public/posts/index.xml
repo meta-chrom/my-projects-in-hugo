@@ -2,17 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on My New Hugo Site</title>
-    <link>https://meta-chrom.github.io/my-projects-in-hugo/public/posts/</link>
+    <link>http://localhost:1313/my-projects-in-hugo/public/posts/</link>
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 31 Mar 2025 18:22:57 +0200</lastBuildDate>
-    <atom:link href="https://meta-chrom.github.io/my-projects-in-hugo/public/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 07 Apr 2025 16:11:56 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/my-projects-in-hugo/public/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Exersize 1</title>
+      <link>http://localhost:1313/my-projects-in-hugo/public/posts/exersize-1/</link>
+      <pubDate>Mon, 07 Apr 2025 16:11:56 +0200</pubDate>
+      <guid>http://localhost:1313/my-projects-in-hugo/public/posts/exersize-1/</guid>
+      <description>&lt;h1 id=&#34;exersize-1&#34;&gt;Exersize 1&lt;/h1&gt;&#xA;&lt;h2 id=&#34;dear-data&#34;&gt;Dear Data&lt;/h2&gt;</description>
+    </item>
     <item>
       <title>My First Post</title>
-      <link>https://meta-chrom.github.io/my-projects-in-hugo/public/posts/my-first-post/</link>
+      <link>http://localhost:1313/my-projects-in-hugo/public/posts/my-first-post/</link>
       <pubDate>Mon, 31 Mar 2025 18:22:57 +0200</pubDate>
-      <guid>https://meta-chrom.github.io/my-projects-in-hugo/public/posts/my-first-post/</guid>
+      <guid>http://localhost:1313/my-projects-in-hugo/public/posts/my-first-post/</guid>
       <description>&lt;h1 id=&#34;este-es-mi-primer-post&#34;&gt;Este es mi primer post&lt;/h1&gt;&#xA;&lt;h2 id=&#34;vamosssssssss&#34;&gt;Vamosssssssss&lt;/h2&gt;&#xA;&lt;h2 id=&#34;tables&#34;&gt;Tables&lt;/h2&gt;&#xA;&lt;p&gt;Tables aren&amp;rsquo;t part of the core Markdown spec, but Hugo supports supports them out-of-the-box.&lt;/p&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Name&lt;/th&gt;&#xA;          &lt;th&gt;Age&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Bob&lt;/td&gt;&#xA;          &lt;td&gt;27&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Alice&lt;/td&gt;&#xA;          &lt;td&gt;23&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;h2 id=&#34;images&#34;&gt;Images&lt;/h2&gt;&#xA;&lt;p&gt;git config &amp;ndash;global user.email &amp;ldquo;&lt;a href=&#34;mailto:meta.friedrich@gmx.de&#34;&gt;meta.friedrich@gmx.de&lt;/a&gt;&amp;rdquo;&#xA;git config &amp;ndash;global user.name &amp;ldquo;meta-chrom&amp;rdquo;&lt;/p&gt;</description>
     </item>
   </channel>
