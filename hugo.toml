@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://meta-chrom.github.io/my-projects-in-hugo/public/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "terminal"
