@@ -28,9 +28,9 @@ Tables aren't part of the core Markdown spec, but Hugo supports supports them ou
 
   ## Images
 
-  ![Terminal Theme Preview](/img/underwater.jpeg)
+  
 
-  {{< figure src="/img/underwater.jpeg" alt="Underwater World" position="center" caption="Underwater its so pretty" captionPosition="center" >}}
+ 
 
   git config --global user.email "meta.friedrich@gmx.de"
   git config --global user.name "meta-chrom"
