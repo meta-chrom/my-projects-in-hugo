@@ -15,4 +15,4 @@ hideComments = false
 
 # Exersize 1
 ## Dear Data
-![imagen ejemplo]("static/img/hello.jpg)
+![imagen ejemplo]((img/hello.jpg))
