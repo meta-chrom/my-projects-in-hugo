@@ -6,8 +6,15 @@
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 07 Apr 2025 17:16:12 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 29 Apr 2025 15:30:56 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/my-projects-in-hugo/public/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Exercise 4</title>
+      <link>http://localhost:1313/my-projects-in-hugo/public/posts/exercise-4/</link>
+      <pubDate>Tue, 29 Apr 2025 15:30:56 +0200</pubDate>
+      <guid>http://localhost:1313/my-projects-in-hugo/public/posts/exercise-4/</guid>
+      <description>&lt;h1 id=&#34;heatmap&#34;&gt;Heatmap&lt;/h1&gt;&#xA;&lt;h2 id=&#34;visualización-de-los-accidentes-en-madrid-como-mapa-de-calor-en-google-collab&#34;&gt;Visualización de los accidentes en Madrid como mapa de calor en Google Collab&lt;/h2&gt;&#xA;&lt;iframe src=&#34;https://meta-chrom.github.io/my-projects-in-hugo/mi_heatmap-2.html&#34; width=&#34;100%&#34; height=&#34;600&#34; style=&#34;border:none;&#34;&gt;&lt;/iframe&gt;</description>
+    </item>
     <item>
       <title>Exercise 3</title>
       <link>http://localhost:1313/my-projects-in-hugo/public/posts/exercise-3/</link>
@@ -28,13 +35,6 @@
       <pubDate>Mon, 07 Apr 2025 16:11:56 +0200</pubDate>
       <guid>http://localhost:1313/my-projects-in-hugo/public/posts/exercise-1/</guid>
       <description>&lt;h1 id=&#34;dear-data&#34;&gt;Dear Data&lt;/h1&gt;&#xA;&lt;h2 id=&#34;an-exersize-to-rethink-personal-data&#34;&gt;An exersize to rethink personal data!&lt;/h2&gt;&#xA;&lt;p&gt;Las diseñadoras Giorgia Lupi y Stefanie Posavec han demostrado cómo se hace: pasaron un año visualizando sus &lt;b&gt;propios hábitos y observaciones&lt;/b&gt; de datos y los enviaron en forma de postales.  &#xA;Siguiendo su estilo, intenté conocer a mis compañeros de piso en la mesa de la cocina durante la primera semana en mi piso compartido.&#xA;El resultado fue una recopilación de datos de los objetos que había en la mesa por la mañana durante 7 días. Se trata de datos cuantitativos, nominales.&#xA;Los visualicé como un patrón de mantel.&lt;p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;img/page1.jpg&#34; alt=&#34;imagen ejemplo&#34;&gt;&#xA;&lt;img src=&#34;img/page2.jpg&#34; alt=&#34;imagen ejemplo&#34;&gt;&#xA;&lt;img src=&#34;img/page3.jpg&#34; alt=&#34;imagen ejemplo&#34;&gt;&#xA;¡Gracias por el interesante curso y por la gran consideración hacia mi español y mis conocimientos previos! He aprendido mucho y siempre esperaba con ganas las clases.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/my-projects-in-hugo/public/posts/exercise-4/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/my-projects-in-hugo/public/posts/exercise-4/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/my-projects-in-hugo/public/mi_heatmap.html&#34;&gt;Zur interaktiven Heat Map&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
