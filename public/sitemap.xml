@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/my-projects-in-hugo/public/posts/exersize-3/</loc>
+    <loc>http://localhost:1313/my-projects-in-hugo/public/posts/exercise-3/</loc>
     <lastmod>2025-04-07T17:16:12+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/my-projects-in-hugo/public/</loc>
@@ -11,10 +11,10 @@
     <loc>http://localhost:1313/my-projects-in-hugo/public/posts/</loc>
     <lastmod>2025-04-07T17:16:12+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-projects-in-hugo/public/posts/exersize-2/</loc>
+    <loc>http://localhost:1313/my-projects-in-hugo/public/posts/exercise-2/</loc>
     <lastmod>2025-04-07T16:57:15+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-projects-in-hugo/public/posts/exersize-1/</loc>
+    <loc>http://localhost:1313/my-projects-in-hugo/public/posts/exercise-1/</loc>
     <lastmod>2025-04-07T16:11:56+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/my-projects-in-hugo/public/categories/</loc>
