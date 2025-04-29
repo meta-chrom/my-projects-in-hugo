@@ -26,6 +26,7 @@ Los visualicé como un patrón de mantel.<p>
 ![imagen ejemplo](img/page1.jpg)
 ![imagen ejemplo](img/page2.jpg)
 ![imagen ejemplo](img/page3.jpg)
+¡Gracias por el interesante curso y por la gran consideración hacia mi español y mis conocimientos previos! He aprendido mucho y siempre esperaba con ganas las clases.
 
 
-<p>¡Gracias por el interesante curso y por la gran consideración hacia mi español y mis conocimientos previos! He aprendido mucho y siempre esperaba con ganas las clases.<p>
+
